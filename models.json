@@ -1,0 +1,734 @@
+[
+  {
+    "path": "v3/en-is/lexicalShortlist/0.bin",
+    "bytes": 1977789,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-is/docmt-vocab_EkZBaZqDS5Cce_lC2BpxlA/exported/lex.50.50.enis.s2t.bin.gz"
+  },
+  {
+    "path": "v3/en-is/model/0.bin",
+    "bytes": 16777216,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-is/docmt-vocab_EkZBaZqDS5Cce_lC2BpxlA/exported/model.enis.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/en-is/model/1.bin",
+    "bytes": 5810787,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-is/docmt-vocab_EkZBaZqDS5Cce_lC2BpxlA/exported/model.enis.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/en-is/vocab/0.bin",
+    "bytes": 413543,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-is/docmt-vocab_EkZBaZqDS5Cce_lC2BpxlA/exported/vocab.enis.spm.gz"
+  },
+  {
+    "path": "v3/en-it/lexicalShortlist/0.bin",
+    "bytes": 2209348,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-it/retrain_hr_fix_names_GPSr_u8PSmC9fOx1ZDCHoA/exported/lex.50.50.enit.s2t.bin.gz"
+  },
+  {
+    "path": "v3/en-it/model/0.bin",
+    "bytes": 16777216,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-it/retrain_hr_fix_names_GPSr_u8PSmC9fOx1ZDCHoA/exported/model.enit.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/en-it/model/1.bin",
+    "bytes": 7115673,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-it/retrain_hr_fix_names_GPSr_u8PSmC9fOx1ZDCHoA/exported/model.enit.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/en-it/vocab/0.bin",
+    "bytes": 407598,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-it/retrain_hr_fix_names_GPSr_u8PSmC9fOx1ZDCHoA/exported/vocab.enit.spm.gz"
+  },
+  {
+    "path": "v3/en-kn/lexicalShortlist/0.bin",
+    "bytes": 1416160,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-kn/h1-2025_DDVsjRwsQ8GL3-JAiAmmfQ/exported/lex.50.50.enkn.s2t.bin.gz"
+  },
+  {
+    "path": "v3/en-kn/model/0.bin",
+    "bytes": 13009213,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-kn/h1-2025_DDVsjRwsQ8GL3-JAiAmmfQ/exported/model.enkn.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/en-kn/vocab/0.bin",
+    "bytes": 450046,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-kn/h1-2025_DDVsjRwsQ8GL3-JAiAmmfQ/exported/vocab.enkn.spm.gz"
+  },
+  {
+    "path": "v3/en-lv/lexicalShortlist/0.bin",
+    "bytes": 1725879,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-lv/h1-2025_L9sajlF2TCKfEzDro4tK3Q/exported/lex.50.50.enlv.s2t.bin.gz"
+  },
+  {
+    "path": "v3/en-lv/model/0.bin",
+    "bytes": 16777216,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-lv/h1-2025_L9sajlF2TCKfEzDro4tK3Q/exported/model.enlv.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/en-lv/model/1.bin",
+    "bytes": 6950452,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-lv/h1-2025_L9sajlF2TCKfEzDro4tK3Q/exported/model.enlv.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/en-lv/vocab/0.bin",
+    "bytes": 407540,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-lv/h1-2025_L9sajlF2TCKfEzDro4tK3Q/exported/vocab.enlv.spm.gz"
+  },
+  {
+    "path": "v3/en-ml/lexicalShortlist/0.bin",
+    "bytes": 1275347,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-ml/h1-2025_UylcthuMRoelqd6lsCbXJw/exported/lex.50.50.enml.s2t.bin.gz"
+  },
+  {
+    "path": "v3/en-ml/model/0.bin",
+    "bytes": 12570038,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-ml/h1-2025_UylcthuMRoelqd6lsCbXJw/exported/model.enml.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/en-ml/vocab/0.bin",
+    "bytes": 454768,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-ml/h1-2025_UylcthuMRoelqd6lsCbXJw/exported/vocab.enml.spm.gz"
+  },
+  {
+    "path": "v3/en-mr/lexicalShortlist/0.bin",
+    "bytes": 1401383,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-mr/indictrans2-teacher_YxWwPatgTHy0imIiIafh5A/exported/lex.50.50.enmr.s2t.bin.gz"
+  },
+  {
+    "path": "v3/en-mr/model/0.bin",
+    "bytes": 16777216,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-mr/indictrans2-teacher_YxWwPatgTHy0imIiIafh5A/exported/model.enmr.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/en-mr/model/1.bin",
+    "bytes": 6119713,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-mr/indictrans2-teacher_YxWwPatgTHy0imIiIafh5A/exported/model.enmr.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/en-mr/vocab/0.bin",
+    "bytes": 443275,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-mr/indictrans2-teacher_YxWwPatgTHy0imIiIafh5A/exported/vocab.enmr.spm.gz"
+  },
+  {
+    "path": "v3/en-ms/lexicalShortlist/0.bin",
+    "bytes": 2044118,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-ms/h1-2025_Ba76abX1Qtums6Vbv95tzg/exported/lex.50.50.enms.s2t.bin.gz"
+  },
+  {
+    "path": "v3/en-ms/model/0.bin",
+    "bytes": 13039668,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-ms/h1-2025_Ba76abX1Qtums6Vbv95tzg/exported/model.enms.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/en-ms/vocab/0.bin",
+    "bytes": 404033,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-ms/h1-2025_Ba76abX1Qtums6Vbv95tzg/exported/vocab.enms.spm.gz"
+  },
+  {
+    "path": "v3/en-nb/lexicalShortlist/0.bin",
+    "bytes": 2193397,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-nb/h1-2025_A0d8NsivR6Szy2dI4Nz6FQ/exported/lex.50.50.ennb.s2t.bin.gz"
+  },
+  {
+    "path": "v3/en-nb/model/0.bin",
+    "bytes": 12713727,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-nb/h1-2025_A0d8NsivR6Szy2dI4Nz6FQ/exported/model.ennb.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/en-nb/vocab/0.bin",
+    "bytes": 409037,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-nb/h1-2025_A0d8NsivR6Szy2dI4Nz6FQ/exported/vocab.ennb.spm.gz"
+  },
+  {
+    "path": "v3/en-nl/lexicalShortlist/0.bin",
+    "bytes": 2155034,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-nl/retrain_hr_fix_names_fR8XhBiBQniIbi4I_ebJ2Q/exported/lex.50.50.ennl.s2t.bin.gz"
+  },
+  {
+    "path": "v3/en-nl/model/0.bin",
+    "bytes": 16777216,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-nl/retrain_hr_fix_names_fR8XhBiBQniIbi4I_ebJ2Q/exported/model.ennl.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/en-nl/model/1.bin",
+    "bytes": 6609417,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-nl/retrain_hr_fix_names_fR8XhBiBQniIbi4I_ebJ2Q/exported/model.ennl.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/en-nl/vocab/0.bin",
+    "bytes": 410222,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-nl/retrain_hr_fix_names_fR8XhBiBQniIbi4I_ebJ2Q/exported/vocab.ennl.spm.gz"
+  },
+  {
+    "path": "v3/en-no/lexicalShortlist/0.bin",
+    "bytes": 2193397,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-no/h1-2025_A0d8NsivR6Szy2dI4Nz6FQ/exported/lex.50.50.enno.s2t.bin.gz"
+  },
+  {
+    "path": "v3/en-no/model/0.bin",
+    "bytes": 12713727,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-no/h1-2025_A0d8NsivR6Szy2dI4Nz6FQ/exported/model.enno.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/en-no/vocab/0.bin",
+    "bytes": 409037,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-no/h1-2025_A0d8NsivR6Szy2dI4Nz6FQ/exported/vocab.enno.spm.gz"
+  },
+  {
+    "path": "v3/en-pl/lexicalShortlist/0.bin",
+    "bytes": 1874327,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-pl/retrain_hr_fix_names_YmTlfuUsSKCbUp75UXaUuw/exported/lex.50.50.enpl.s2t.bin.gz"
+  },
+  {
+    "path": "v3/en-pl/model/0.bin",
+    "bytes": 16777216,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-pl/retrain_hr_fix_names_YmTlfuUsSKCbUp75UXaUuw/exported/model.enpl.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/en-pl/model/1.bin",
+    "bytes": 5800231,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-pl/retrain_hr_fix_names_YmTlfuUsSKCbUp75UXaUuw/exported/model.enpl.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/en-pl/vocab/0.bin",
+    "bytes": 413194,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-pl/retrain_hr_fix_names_YmTlfuUsSKCbUp75UXaUuw/exported/vocab.enpl.spm.gz"
+  },
+  {
+    "path": "v3/en-pt/lexicalShortlist/0.bin",
+    "bytes": 2117608,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-pt/retrain_hr_fix_names_Vnb0RUXTTd67hR-oLHM3eg/exported/lex.50.50.enpt.s2t.bin.gz"
+  },
+  {
+    "path": "v3/en-pt/model/0.bin",
+    "bytes": 16777216,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-pt/retrain_hr_fix_names_Vnb0RUXTTd67hR-oLHM3eg/exported/model.enpt.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/en-pt/model/1.bin",
+    "bytes": 6562803,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-pt/retrain_hr_fix_names_Vnb0RUXTTd67hR-oLHM3eg/exported/model.enpt.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/en-pt/vocab/0.bin",
+    "bytes": 408686,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-pt/retrain_hr_fix_names_Vnb0RUXTTd67hR-oLHM3eg/exported/vocab.enpt.spm.gz"
+  },
+  {
+    "path": "v3/en-ro/lexicalShortlist/0.bin",
+    "bytes": 1846074,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-ro/spring-2024_Ov3G4D_DRJa-4qTlILkPhg/exported/lex.50.50.enro.s2t.bin.gz"
+  },
+  {
+    "path": "v3/en-ro/model/0.bin",
+    "bytes": 12207487,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-ro/spring-2024_Ov3G4D_DRJa-4qTlILkPhg/exported/model.enro.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/en-ro/vocab/0.bin",
+    "bytes": 397137,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-ro/spring-2024_Ov3G4D_DRJa-4qTlILkPhg/exported/vocab.enro.spm.gz"
+  },
+  {
+    "path": "v3/en-sk/lexicalShortlist/0.bin",
+    "bytes": 1708788,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-sk/h1-2025_NbGVkenLTPiss8w800509A/exported/lex.50.50.ensk.s2t.bin.gz"
+  },
+  {
+    "path": "v3/en-sk/model/0.bin",
+    "bytes": 16777216,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-sk/h1-2025_NbGVkenLTPiss8w800509A/exported/model.ensk.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/en-sk/model/1.bin",
+    "bytes": 6125767,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-sk/h1-2025_NbGVkenLTPiss8w800509A/exported/model.ensk.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/en-sk/vocab/0.bin",
+    "bytes": 405652,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-sk/h1-2025_NbGVkenLTPiss8w800509A/exported/vocab.ensk.spm.gz"
+  },
+  {
+    "path": "v3/en-sl/lexicalShortlist/0.bin",
+    "bytes": 1741316,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-sl/h1-2025_Ph0DK4RhRMe7z4cLk-f7eg/exported/lex.50.50.ensl.s2t.bin.gz"
+  },
+  {
+    "path": "v3/en-sl/model/0.bin",
+    "bytes": 16777216,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-sl/h1-2025_Ph0DK4RhRMe7z4cLk-f7eg/exported/model.ensl.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/en-sl/model/1.bin",
+    "bytes": 5892343,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-sl/h1-2025_Ph0DK4RhRMe7z4cLk-f7eg/exported/model.ensl.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/en-sl/vocab/0.bin",
+    "bytes": 398763,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-sl/h1-2025_Ph0DK4RhRMe7z4cLk-f7eg/exported/vocab.ensl.spm.gz"
+  },
+  {
+    "path": "v3/en-sq/lexicalShortlist/0.bin",
+    "bytes": 1599959,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-sq/h1-2025_HIreYm8_RDymI1qFdn0V5Q/exported/lex.50.50.ensq.s2t.bin.gz"
+  },
+  {
+    "path": "v3/en-sq/model/0.bin",
+    "bytes": 13366206,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-sq/h1-2025_HIreYm8_RDymI1qFdn0V5Q/exported/model.ensq.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/en-sq/vocab/0.bin",
+    "bytes": 410650,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-sq/h1-2025_HIreYm8_RDymI1qFdn0V5Q/exported/vocab.ensq.spm.gz"
+  },
+  {
+    "path": "v3/en-sr/lexicalShortlist/0.bin",
+    "bytes": 1289317,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-sr/hbs-topk10_KZK68xhrQWWeK6xcMRtd9A/exported/lex.50.50.ensr.s2t.bin.gz"
+  },
+  {
+    "path": "v3/en-sr/model/0.bin",
+    "bytes": 16777216,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-sr/hbs-topk10_KZK68xhrQWWeK6xcMRtd9A/exported/model.ensr.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/en-sr/model/1.bin",
+    "bytes": 6237371,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-sr/hbs-topk10_KZK68xhrQWWeK6xcMRtd9A/exported/model.ensr.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/en-sr/vocab/0.bin",
+    "bytes": 433623,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-sr/hbs-topk10_KZK68xhrQWWeK6xcMRtd9A/exported/vocab.ensr.spm.gz"
+  },
+  {
+    "path": "v3/en-sv/lexicalShortlist/0.bin",
+    "bytes": 1921270,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-sv/spring-2024_bQQme71PS4eZRDl3NM-kgA/exported/lex.50.50.ensv.s2t.bin.gz"
+  },
+  {
+    "path": "v3/en-sv/model/0.bin",
+    "bytes": 12775086,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-sv/spring-2024_bQQme71PS4eZRDl3NM-kgA/exported/model.ensv.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/en-sv/vocab/0.bin",
+    "bytes": 398384,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-sv/spring-2024_bQQme71PS4eZRDl3NM-kgA/exported/vocab.ensv.spm.gz"
+  },
+  {
+    "path": "v3/en-ta/lexicalShortlist/0.bin",
+    "bytes": 1434399,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-ta/next26-nobcbpcc_RgO3iURPQH2EjhUm533NWA/exported/lex.50.50.enta.s2t.bin.gz"
+  },
+  {
+    "path": "v3/en-ta/model/0.bin",
+    "bytes": 16777216,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-ta/next26-nobcbpcc_RgO3iURPQH2EjhUm533NWA/exported/model.enta.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/en-ta/model/1.bin",
+    "bytes": 6428788,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-ta/next26-nobcbpcc_RgO3iURPQH2EjhUm533NWA/exported/model.enta.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/en-ta/vocab/0.bin",
+    "bytes": 449763,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-ta/next26-nobcbpcc_RgO3iURPQH2EjhUm533NWA/exported/vocab.enta.spm.gz"
+  },
+  {
+    "path": "v3/en-te/lexicalShortlist/0.bin",
+    "bytes": 1434105,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-te/h1-2025_J_7yoPHaRJqsevUR512RsQ/exported/lex.50.50.ente.s2t.bin.gz"
+  },
+  {
+    "path": "v3/en-te/model/0.bin",
+    "bytes": 12590862,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-te/h1-2025_J_7yoPHaRJqsevUR512RsQ/exported/model.ente.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/en-te/vocab/0.bin",
+    "bytes": 448838,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-te/h1-2025_J_7yoPHaRJqsevUR512RsQ/exported/vocab.ente.spm.gz"
+  },
+  {
+    "path": "v3/en-th/lexicalShortlist/0.bin",
+    "bytes": 1601933,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-th/new-opuscleaner-en-th-onestage-topk10_WIvJuHhrSyiXLtJBJOUrsA/exported/lex.50.50.enth.s2t.bin.gz"
+  },
+  {
+    "path": "v3/en-th/model/0.bin",
+    "bytes": 16777216,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-th/new-opuscleaner-en-th-onestage-topk10_WIvJuHhrSyiXLtJBJOUrsA/exported/model.enth.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/en-th/model/1.bin",
+    "bytes": 6199513,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-th/new-opuscleaner-en-th-onestage-topk10_WIvJuHhrSyiXLtJBJOUrsA/exported/model.enth.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/en-th/vocab/0.bin",
+    "bytes": 450379,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-th/new-opuscleaner-en-th-onestage-topk10_WIvJuHhrSyiXLtJBJOUrsA/exported/vocab.enth.spm.gz"
+  },
+  {
+    "path": "v3/en-tl/lexicalShortlist/0.bin",
+    "bytes": 1412886,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-tl/next26-nllb-bc09_DGa0cH2-QKOhfrPkVbnJFQ/exported/lex.50.50.entl.s2t.bin.gz"
+  },
+  {
+    "path": "v3/en-tl/model/0.bin",
+    "bytes": 16777216,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-tl/next26-nllb-bc09_DGa0cH2-QKOhfrPkVbnJFQ/exported/model.entl.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/en-tl/model/1.bin",
+    "bytes": 6723445,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-tl/next26-nllb-bc09_DGa0cH2-QKOhfrPkVbnJFQ/exported/model.entl.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/en-tl/vocab/0.bin",
+    "bytes": 408817,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-tl/next26-nllb-bc09_DGa0cH2-QKOhfrPkVbnJFQ/exported/vocab.entl.spm.gz"
+  },
+  {
+    "path": "v3/en-tr/lexicalShortlist/0.bin",
+    "bytes": 1546258,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-tr/spring-2024_LiFGeNrEQpKdNlziG2qP_A/exported/lex.50.50.entr.s2t.bin.gz"
+  },
+  {
+    "path": "v3/en-tr/model/0.bin",
+    "bytes": 13159314,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-tr/spring-2024_LiFGeNrEQpKdNlziG2qP_A/exported/model.entr.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/en-tr/vocab/0.bin",
+    "bytes": 395473,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-tr/spring-2024_LiFGeNrEQpKdNlziG2qP_A/exported/vocab.entr.spm.gz"
+  },
+  {
+    "path": "v3/en-ug/lexicalShortlist/0.bin",
+    "bytes": 990376,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-ug/davidv-hymt2_xxxxxxxxRxSxxxxxxxxxxA/exported/lex.50.50.enug.s2t.bin.gz"
+  },
+  {
+    "path": "v3/en-ug/model/0.bin",
+    "bytes": 16777216,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-ug/davidv-hymt2_xxxxxxxxRxSxxxxxxxxxxA/exported/model.enug.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/en-ug/model/1.bin",
+    "bytes": 7445941,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-ug/davidv-hymt2_xxxxxxxxRxSxxxxxxxxxxA/exported/model.enug.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/en-ug/vocab/0.bin",
+    "bytes": 406290,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-ug/davidv-hymt2_xxxxxxxxRxSxxxxxxxxxxA/exported/vocab.enug.spm.gz"
+  },
+  {
+    "path": "v3/en-uk/lexicalShortlist/0.bin",
+    "bytes": 1564122,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-uk/docmt-vocab_a2OVwdI-Sg-SBZ_0Joqb0w/exported/lex.50.50.enuk.s2t.bin.gz"
+  },
+  {
+    "path": "v3/en-uk/model/0.bin",
+    "bytes": 16777216,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-uk/docmt-vocab_a2OVwdI-Sg-SBZ_0Joqb0w/exported/model.enuk.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/en-uk/model/1.bin",
+    "bytes": 6087158,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-uk/docmt-vocab_a2OVwdI-Sg-SBZ_0Joqb0w/exported/model.enuk.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/en-uk/vocab/0.bin",
+    "bytes": 436850,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-uk/docmt-vocab_a2OVwdI-Sg-SBZ_0Joqb0w/exported/vocab.enuk.spm.gz"
+  },
+  {
+    "path": "v3/en-ur/lexicalShortlist/0.bin",
+    "bytes": 1498625,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-ur/indictrans2_SUOSu0mESlOMc6IkS5_3sQ/exported/lex.50.50.enur.s2t.bin.gz"
+  },
+  {
+    "path": "v3/en-ur/model/0.bin",
+    "bytes": 16777216,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-ur/indictrans2_SUOSu0mESlOMc6IkS5_3sQ/exported/model.enur.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/en-ur/model/1.bin",
+    "bytes": 5907375,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-ur/indictrans2_SUOSu0mESlOMc6IkS5_3sQ/exported/model.enur.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/en-ur/vocab/0.bin",
+    "bytes": 417745,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-ur/indictrans2_SUOSu0mESlOMc6IkS5_3sQ/exported/vocab.enur.spm.gz"
+  },
+  {
+    "path": "v3/en-vi/lexicalShortlist/0.bin",
+    "bytes": 2246027,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-vi/test_prompsit_Ep8JhBQ3QRizDT91JVy8KQ/exported/lex.50.50.envi.s2t.bin.gz"
+  },
+  {
+    "path": "v3/en-vi/model/0.bin",
+    "bytes": 16777216,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-vi/test_prompsit_Ep8JhBQ3QRizDT91JVy8KQ/exported/model.envi.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/en-vi/model/1.bin",
+    "bytes": 7467489,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-vi/test_prompsit_Ep8JhBQ3QRizDT91JVy8KQ/exported/model.envi.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/en-vi/vocab/0.bin",
+    "bytes": 400183,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-vi/test_prompsit_Ep8JhBQ3QRizDT91JVy8KQ/exported/vocab.envi.spm.gz"
+  },
+  {
+    "path": "v3/en-zh-hant/lexicalShortlist/0.bin",
+    "bytes": 2290215,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-zh_hant/zh_hant_llmaat_finetune10M_qe8_f2_aQ8azdOMQOSBVjBDOVDIZQ/exported/lex.50.50.enzh_hant.s2t.bin.gz"
+  },
+  {
+    "path": "v3/en-zh-hant/model/0.bin",
+    "bytes": 16777216,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-zh_hant/zh_hant_llmaat_finetune10M_qe8_f2_aQ8azdOMQOSBVjBDOVDIZQ/exported/model.enzh_hant.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/en-zh-hant/model/1.bin",
+    "bytes": 16513791,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-zh_hant/zh_hant_llmaat_finetune10M_qe8_f2_aQ8azdOMQOSBVjBDOVDIZQ/exported/model.enzh_hant.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/en-zh-hant/srcVocab/0.bin",
+    "bytes": 404976,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-zh_hant/zh_hant_llmaat_finetune10M_qe8_f2_aQ8azdOMQOSBVjBDOVDIZQ/exported/srcvocab.enzh_hant.spm.gz"
+  },
+  {
+    "path": "v3/en-zh-hant/trgVocab/0.bin",
+    "bytes": 416659,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/en-zh_hant/zh_hant_llmaat_finetune10M_qe8_f2_aQ8azdOMQOSBVjBDOVDIZQ/exported/trgvocab.enzh_hant.spm.gz"
+  },
+  {
+    "path": "v3/es-en/lexicalShortlist/0.bin",
+    "bytes": 2543246,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/es-en/retrain_hr_HbNjJ60BTwmVTbhfFxuduA/exported/lex.50.50.esen.s2t.bin.gz"
+  },
+  {
+    "path": "v3/es-en/model/0.bin",
+    "bytes": 16777216,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/es-en/retrain_hr_HbNjJ60BTwmVTbhfFxuduA/exported/model.esen.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/es-en/model/1.bin",
+    "bytes": 6511278,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/es-en/retrain_hr_HbNjJ60BTwmVTbhfFxuduA/exported/model.esen.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/es-en/vocab/0.bin",
+    "bytes": 409312,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/es-en/retrain_hr_HbNjJ60BTwmVTbhfFxuduA/exported/vocab.esen.spm.gz"
+  },
+  {
+    "path": "v3/et-en/lexicalShortlist/0.bin",
+    "bytes": 2321326,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/et-en/retrain_hr_RNXxp-Q9Q4GRExCoMAT77Q/exported/lex.50.50.eten.s2t.bin.gz"
+  },
+  {
+    "path": "v3/et-en/model/0.bin",
+    "bytes": 16777216,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/et-en/retrain_hr_RNXxp-Q9Q4GRExCoMAT77Q/exported/model.eten.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/et-en/model/1.bin",
+    "bytes": 6007861,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/et-en/retrain_hr_RNXxp-Q9Q4GRExCoMAT77Q/exported/model.eten.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/et-en/vocab/0.bin",
+    "bytes": 414262,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/et-en/retrain_hr_RNXxp-Q9Q4GRExCoMAT77Q/exported/vocab.eten.spm.gz"
+  },
+  {
+    "path": "v3/eu-en/lexicalShortlist/0.bin",
+    "bytes": 1896953,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/eu-en/euen-finetranslations_Blfz7PCVT4qOGYPj9q6oMg/exported/lex.50.50.euen.s2t.bin.gz"
+  },
+  {
+    "path": "v3/eu-en/model/0.bin",
+    "bytes": 16777216,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/eu-en/euen-finetranslations_Blfz7PCVT4qOGYPj9q6oMg/exported/model.euen.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/eu-en/model/1.bin",
+    "bytes": 6463841,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/eu-en/euen-finetranslations_Blfz7PCVT4qOGYPj9q6oMg/exported/model.euen.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/eu-en/vocab/0.bin",
+    "bytes": 412669,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/eu-en/euen-finetranslations_Blfz7PCVT4qOGYPj9q6oMg/exported/vocab.euen.spm.gz"
+  },
+  {
+    "path": "v3/fa-en/lexicalShortlist/0.bin",
+    "bytes": 1939291,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/fa-en/h1-2025_dyvKzoMQToKWHx7bbP-TtQ/exported/lex.50.50.faen.s2t.bin.gz"
+  },
+  {
+    "path": "v3/fa-en/model/0.bin",
+    "bytes": 13071390,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/fa-en/h1-2025_dyvKzoMQToKWHx7bbP-TtQ/exported/model.faen.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/fa-en/vocab/0.bin",
+    "bytes": 416123,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/fa-en/h1-2025_dyvKzoMQToKWHx7bbP-TtQ/exported/vocab.faen.spm.gz"
+  },
+  {
+    "path": "v3/fi-en/lexicalShortlist/0.bin",
+    "bytes": 2580517,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/fi-en/retrain_hr_C7-zSzS7Tm6zkOfVP7k0Gw/exported/lex.50.50.fien.s2t.bin.gz"
+  },
+  {
+    "path": "v3/fi-en/model/0.bin",
+    "bytes": 16777216,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/fi-en/retrain_hr_C7-zSzS7Tm6zkOfVP7k0Gw/exported/model.fien.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/fi-en/model/1.bin",
+    "bytes": 6158030,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/fi-en/retrain_hr_C7-zSzS7Tm6zkOfVP7k0Gw/exported/model.fien.intgemm.alphas.bin.gz"
+  },
+  {
+    "path": "v3/fi-en/vocab/0.bin",
+    "bytes": 414280,
+    "repo": "FirefoxTranslationModels-02",
+    "source": "https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/models/fi-en/retrain_hr_C7-zSzS7Tm6zkOfVP7k0Gw/exported/vocab.fien.spm.gz"
+  }
+]
